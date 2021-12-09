@@ -1,16 +1,7 @@
-# online_canvas_drawer
+# Canvas multiplayer
 
-A new Flutter application.
+Implementação de canvas que pode ser compartilhado em rede para que várias pessoas possam desenhar ao mesmo tempo. Projeto realizado usando flutter e websockets para a matéria de redes do curso de ciência da computação.
 
-## Getting Started
+# Multiplayer canvas
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Network shared canvas implementation, in wich many players can draw on one canvas together. Project built on flutter framework and websockets, for the subject of computer networks in the computer science course.
